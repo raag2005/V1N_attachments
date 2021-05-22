@@ -6,6 +6,7 @@
     <li><a href="#𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍">𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧𝐞𝐫 𝐨𝐦 𝐬𝐜𝐫𝐢𝐩𝐭𝐞𝐭</a></li>
     <li><a href="#𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐂𝐈𝐄𝐒">𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬 𝐟𝐨𝐫 𝐬𝐜𝐫𝐢𝐩𝐭𝐞𝐭</a></li>
     <li><a href="#𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒">𝐁𝐢𝐥𝐥𝐞𝐝𝐞𝐫 𝐚𝐟 𝐬𝐜𝐫𝐢𝐩𝐭𝐞𝐭</a></li>
+    <li><a href="#𝐏𝐑𝐄𝐕𝐈𝐄𝐖">𝐕𝐢𝐝𝐞𝐨 𝐩𝐫𝐞𝐯𝐢𝐞𝐰 𝐚𝐟 𝐬𝐜𝐫𝐢𝐩𝐭𝐞𝐭</a></li>
     <li>
       <a href="#𝐒𝐎𝐂𝐈𝐀𝐋𝐒">𝐌𝐢𝐧𝐞 𝐦𝐞𝐝𝐢𝐞𝐫</a>
       <ul>
@@ -25,6 +26,9 @@
 
 ### 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒
 <img src="https://imgur.com/s05HHi6.png" alt="Config" width="480px" height="270px">
+
+### 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+[![𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐯𝐢𝐝𝐞𝐨](https://i.ytimg.com/an_webp/B3YM0OV73ko/mqdefault_6s.webp?du=3000&sqp=CJrz1IAG&rs=AOn4CLBP-M542walhcR2wWgEz61IuR9MBg)](https://youtu.be/B3YM0OV73ko)
 
 ### 𝐒𝐎𝐂𝐈𝐀𝐋𝐒
 [<img src="https://cdn.vox-cdn.com/thumbor/VlgzMj5_REvgw7vItUeOy0KSYnY=/0x172:2400x1429/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11946613/discord_logo_wordmark_2400.jpg" width="243px" height="127.575px">](https://discord.gg/j6T9779uCd) [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="243px" height="127.575px">](https://www.youtube.com/channel/UCaBZGvYryg09IS-uaSHyfPw) [<img src="https://nightwing.stevivor.com/wp-content/uploads/2018/11/steam-logo.jpg" width="243px" height="127.575px">](https://steamcommunity.com/id/V1NDs)
