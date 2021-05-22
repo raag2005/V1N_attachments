@@ -21,11 +21,11 @@
 ### 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍
 > 𝙹𝚎𝚐 𝚑𝚊𝚛 𝚗𝚞 𝚜𝚎𝚝 𝚎𝚗 𝚖𝚊𝚜𝚜𝚎 𝚊𝚝𝚝𝚊𝚌𝚑𝚖𝚎𝚗𝚝 𝚜𝚌𝚛𝚒𝚙𝚝𝚜 𝚜𝚘𝚖 𝚊𝚕𝚕𝚎 𝚑𝚊𝚛 𝚍𝚎𝚗 𝚜𝚊𝚖𝚖𝚎 𝚏𝚞𝚗𝚔𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚎𝚝, 𝚑𝚟𝚘𝚛 𝚍𝚎𝚛 𝚎𝚛 𝚎𝚝 𝚊𝚝𝚝𝚊𝚌𝚑𝚖𝚎𝚗𝚝 𝚏𝚘𝚛 𝚑𝚟𝚎𝚛𝚝 𝚟å𝚋𝚎𝚗, 𝚍𝚎𝚝 𝚎𝚗𝚍𝚎𝚛 𝚞𝚍 𝚒 𝚊𝚝 𝚖𝚊𝚗 𝚑𝚊𝚛 𝟻𝟶+ 𝚒𝚝𝚎𝚖𝚜 𝚏𝚘𝚛 𝚊𝚕𝚕𝚎 𝚟å𝚋𝚎𝚗. 𝙹𝚎𝚐 𝚑𝚊𝚛 𝚕𝚊𝚟𝚎𝚝 𝚎𝚗 𝚗𝚢 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚑𝚟𝚘𝚛 𝚍𝚎𝚛 𝚎𝚛 𝚎𝚝 𝚊𝚝𝚝𝚊𝚌𝚑𝚖𝚎𝚗𝚝 𝚏𝚘𝚛 𝚑𝚟𝚎𝚛𝚝 𝚟å𝚋𝚎𝚗.
 
-### 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
-[![𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐯𝐢𝐝𝐞𝐨](https://i.ytimg.com/vi/vLxqnIFHiFU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDDCvBoOigm6AoUgkhkVhl9krXsMw)](https://youtu.be/vLxqnIFHiFU)
-
 ### 𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐂𝐈𝐄𝐒
 - [x] 𝚟𝚁𝙿 𝟶.𝟻.
+
+### 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+[![𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐯𝐢𝐝𝐞𝐨](https://i.ytimg.com/vi/vLxqnIFHiFU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDDCvBoOigm6AoUgkhkVhl9krXsMw)](https://youtu.be/vLxqnIFHiFU)
 
 ### 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒
 <img src="https://imgur.com/s05HHi6.png" alt="Config" width="480px" height="270px">
