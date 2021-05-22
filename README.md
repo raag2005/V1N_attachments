@@ -5,3 +5,6 @@
 
 ### 𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐂𝐈𝐄𝐒
 - [x] 𝚟𝚁𝙿 𝟶.𝟻.
+
+### 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒
+<img src="https://imgur.com/s05HHi6.png" width="480px" height="270px">
