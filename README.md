@@ -29,5 +29,5 @@
 ### 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒
 <img src="https://imgur.com/s05HHi6.png" alt="Config" width="480px" height="270px">
 
-### 𝐒𝐎𝐂𝐈𝐀𝐋𝐒
+### 𝐌𝐄𝐃𝐈𝐄𝐑
 [<img src="https://cdn.vox-cdn.com/thumbor/VlgzMj5_REvgw7vItUeOy0KSYnY=/0x172:2400x1429/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11946613/discord_logo_wordmark_2400.jpg" width="243px" height="127.575px">](https://discord.gg/ECUxET82SD) [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="243px" height="127.575px">](https://www.youtube.com/channel/UCaBZGvYryg09IS-uaSHyfPw)
