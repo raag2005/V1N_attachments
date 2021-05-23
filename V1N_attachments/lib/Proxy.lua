@@ -12,7 +12,7 @@
 ───████░░████───██░░░░░░██─██░░██──██████████░░██─██░░░░░░░░████─██░░░░░░░░░░██─
 ─────██████─────██████████─██████──────────██████─████████████───██████████████─
 ────────────────────────────────────────────────────────────────────────────────
-Discord: V1NDs#0977
+Discord: https://discord.gg/ECUxET82SD
 Steam: http://steamcommunity.com/id/V1NDs
 Youtube: https://www.youtube.com/channel/UCaBZGvYryg09IS-uaSHyfPw
 Github: https://github.com/V1NDs
