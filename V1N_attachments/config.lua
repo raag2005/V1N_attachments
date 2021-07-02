@@ -21,7 +21,7 @@ cfg = {}
 
 --Liste med components: https://wiki.rage.mp/index.php?title=Weapons_Components.
 cfg.attachments = {
-    [1] = {
+    {
         item = "silencer",
         itemName = "Lyddæmper",
         description = "Gør dit våben mere stille når du skyder",
@@ -35,8 +35,7 @@ cfg.attachments = {
             "COMPONENT_AT_SR_SUPP_03"
         }
     },
-
-    [2] = {
+    {
         item = "flashlight",
         itemName = "Våbenlygte",
         description = "Lygte til dit våben, så du kan se i mørket",
